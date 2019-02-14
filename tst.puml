@@ -1,5 +1,6 @@
 ' Archimate-PlantUML
 ' Version 0.1
 ' Url will come here...
-
+```puml
 A->B
+```
